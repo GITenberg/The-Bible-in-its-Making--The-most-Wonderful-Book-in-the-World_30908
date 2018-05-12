@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '34886'
     url: http://www.gutenberg.org/2009/agents/34886
 description: Illustrated by Noel Hope.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30908#The-Bible-in-its-Making--The-most-Wonderful-Book-in-the-World
 gutenberg_issued: '2010-01-09'
 gutenberg_type: Text
 identifiers:
