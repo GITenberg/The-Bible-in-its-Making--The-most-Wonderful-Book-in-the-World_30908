@@ -1,0 +1,32 @@
+_repo: The-Bible-in-its-Making--The-most-Wonderful-Book-in-the-World_30908
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30908-h/images/img-cover.jpg
+creator:
+  authors:
+  - agent_name: Hope, Noel
+    alias: Morewood, Sarah L.
+    gutenberg_agent_id: '34887'
+    url: http://www.gutenberg.org/2009/agents/34887
+  - agent_name: Duff, Mildred
+    birthdate: 1860
+    deathdate: 1932
+    gutenberg_agent_id: '34886'
+    url: http://www.gutenberg.org/2009/agents/34886
+description: Illustrated by Noel Hope.
+gutenberg_issued: '2010-01-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30908'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible -- History'
+- !lcsh 'Bible -- Authorship'
+- !lcc 'BS'
+- !lcsh 'Bible -- Inspiration'
+title: 'The Bible in its Making: The most Wonderful Book in the World'
+url: http://www.gutenberg.org/ebooks/30908
